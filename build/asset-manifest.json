@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "./static/css/main.a2291e58.css",
+    "main.js": "./static/js/main.2625b8e8.js",
+    "static/js/787.9204d463.chunk.js": "./static/js/787.9204d463.chunk.js",
+    "static/media/Light-Years_V001_Looping.mp3": "./static/media/Light-Years_V001_Looping.b7366815054ac7d75e9d.mp3",
+    "static/media/PowerRez1.mp3": "./static/media/PowerRez1.af7ca93db6cc40dca7e8.mp3",
+    "static/media/Hull-Breach-3.mp3": "./static/media/Hull-Breach-3.af5efcdfc9d28f0380d9.mp3",
+    "static/media/Hull-Breach-4.mp3": "./static/media/Hull-Breach-4.3a24ce1187096c4588c9.mp3",
+    "static/media/Space-Cannon.mp3": "./static/media/Space-Cannon.d0893972ef5bb5f82c6f.mp3",
+    "static/media/Laser-Shot-1.mp3": "./static/media/Laser-Shot-1.258bc3720970e4db03b4.mp3",
+    "static/media/Laser-Shot-3.mp3": "./static/media/Laser-Shot-3.16e61662bf7abb784a7f.mp3",
+    "index.html": "./index.html",
+    "main.a2291e58.css.map": "./static/css/main.a2291e58.css.map",
+    "main.2625b8e8.js.map": "./static/js/main.2625b8e8.js.map",
+    "787.9204d463.chunk.js.map": "./static/js/787.9204d463.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2291e58.css",
+    "static/js/main.2625b8e8.js"
+  ]
+}
